@@ -23,5 +23,5 @@ I'm a **Data Science Coordinator @ ASUCD Pantry** and a **Youth Advisory Board M
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhoang203&layout=compact&theme=dark) 
 
 ## 📫 Connect with Me:
-- **GitHub**: [calvinhoang203]([https://github.com/your_username](https://github.com/calvinhoang203))
+- **GitHub**: [calvinhoang203](https://github.com/calvinhoang203))
 - **LinkedIn**: [Hieu Hoang](https://linkedin.com/in/yourname)
