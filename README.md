@@ -25,5 +25,5 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhoang203&layout=compact&theme=dark) 
 
 ## 📫 Connect with Me:
-- **GitHub**: [calvinhoang203](https://github.com/calvinhoang203))
+- **GitHub**: [calvinhoang203](https://github.com/calvinhoang203)
 - **LinkedIn**: [Hieu Hoang](https://linkedin.com/in/yourname)
