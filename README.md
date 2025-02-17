@@ -1,12 +1,14 @@
-# 👋 Hi! I'm Hieu, but you can call me Calvin. 
+# 👋 Hi! I'm Hieu, also known as Calvin.
 
-I'm a **Data Science Coordinator @ ASUCD Pantry** and a **Youth Advisory Board Member @ JFF**, passionate about **Machine Learning, AI Agents, and data-driven innovation**. Currently, I’m working on projects involving **data science applications in healthcare, AI-powered automation, and statistical modeling**. My goal is to leverage data insights to drive impactful solutions in technology and beyond.
+I’m a **data science enthusiast** with a strong foundation in **machine learning and AI** and a passion for leveraging data to solve real-world problems.  
 
-## 🚀 Skills:
-- **Programming**: Python, JavaScript  
-- **Data Science & ML**: NumPy, Pandas, Scikit-learn, XGBoost  
-- **Databases**: PostgreSQL, SQL  
-- **Tools & Frameworks**: Git, Streamlit, Flask  
+🎓 **Senior at UC Davis**, pursuing a **B.S. in Statistical Data Science** with a **Minor in Technology Management**.  
+📊 **Data Science Coordinator @ ASUCD Pantry**, optimizing food inventory with predictive modeling.  
+🌍 **Youth Advisory Board Member @ JFF**, working to enhance career navigation tools for young adults.  
+💡 Currently learning about **AI Agents and Generative AI** to explore their potential in automation and decision-making.  
+🔍 Interested in **machine learning, data visualization, and applied AI in healthcare and business**.  
+
+🌟 Always open to connecting and collaborating—feel free to reach out! 🚀  
 
 ## 🛠 Projects:
 - 🔹 **Disease Prediction Chatbot**: Developed an AI-powered chatbot using XGBoost and AWS to predict diseases based on symptoms, improving early detection accuracy.  
