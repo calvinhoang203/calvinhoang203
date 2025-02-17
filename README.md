@@ -18,9 +18,9 @@ I'm a **Data Science Coordinator @ ASUCD Pantry** and a **Youth Advisory Board M
 - 🔹 **Portfolio Website**: Designed a personal website using React.
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calvinhoang203&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calvinhoang203&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhoang203&layout=compact&theme=dark) 
 
 ## 📫 Connect with Me:
 - **GitHub**: [calvinhoang203]([https://github.com/your_username](https://github.com/calvinhoang203))
