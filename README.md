@@ -113,7 +113,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,firebase" style="margin: 0 15px;" alt="React Native and Firebase" />
+        <img src="https://skillicons.dev/icons?i=react,firebase,html,css,javascript" style="margin: 0 15px;" alt="React Native and Firebase" />
       </a>
     </p>
 
@@ -123,7 +123,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,javascript,nodejs,html,css,git,github" style="margin: 0 15px;" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,sklearn,javascript,nodejs,html,css,git,github" style="margin: 0 15px;" alt="Skills" />
   </a>
 </p>
 
