@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Hieu, also known as Calvin.
+# 👋 Hi! I'm Hieu (Calvin) Hoang.
 
 I’m a **data science enthusiast** with a strong foundation in **machine learning and AI** and a passion for leveraging data to solve real-world problems.  
 
