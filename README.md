@@ -16,8 +16,8 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 - **[Aggie Reminder](https://github.com/calvinhoang203/Aggie-Reminder)**  
   *Inspiration:* Enhancing volunteer management and communication at Aggie House.  
-  *What it does:* Provides an admin portal to check volunteer work hours and send automated email reminders via the SendGrid API. The system also uses Google Sheets with a JavaScript App Script to trigger reminders automatically.  
-  *How we built it:* Developed with Node.js for server-side logic, and HTML, CSS, and JavaScript for a responsive frontend.  
+  *What it does:* Provides an admin portal to monitor volunteer work hours and send automated email reminders via the SendGrid API. It also implements an automatic reminder feature using JavaScript in a Google Sheets App Script.  
+  *How we built it:* Developed with Node.js for the server, and HTML, CSS, and JavaScript for a responsive frontend.  
   **Technologies used:**  
   <p align="center">
     <a href="https://nodejs.org/">
@@ -36,17 +36,11 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 - **[Pantry Tracking Website](https://github.com/lJulietl/Pantry-Tracking-Website)**  
   *Description:* A web-based dashboard for tracking pantry inventory in real-time.  
-  *How it works:* Built with Streamlit and Python, this dashboard allows users to input, update, and visualize inventory data (including distributed products, remaining stock, and more).  
+  *How it works:* Built with Python, this dashboard allows users to input, update, and visualize inventory data—helping to manage distributed products and remaining stock efficiently.  
   **Technologies used:**  
   <p align="center">
     <a href="https://python.org/">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    </a>
-    <a href="https://streamlit.io/">
-      <img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" />
-    </a>
-    <a href="https://pandas.pydata.org/">
-      <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
     </a>
   </p>
 
@@ -57,9 +51,6 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 <p align="center">
   <a href="https://python.org/">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
   </a>
   <a href="https://scikit-learn.org/">
     <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
