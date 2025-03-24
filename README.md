@@ -40,7 +40,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,css" style="margin: 0 15px;" />
+        <img src="https://skillicons.dev/icons?i=vscode,python,css" style="margin: 0 15px;" />
       </a>
     </p>
 
@@ -60,7 +60,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,sklearn" style="margin: 0 15px;"/>
+        <img src="https://skillicons.dev/icons?i=anaconda,python,sklearn" style="margin: 0 15px;"/>
       </a>
     </p>
 
@@ -95,7 +95,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript" style="margin: 0 15px;"/>
+        <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript" style="margin: 0 15px;"/>
       </a>
     </p>
 
@@ -113,7 +113,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,firebase,html,css,javascript" style="margin: 0 15px;"/>
+        <img src="https://skillicons.dev/icons?i=vscode,react,firebase,html,css,javascript" style="margin: 0 15px;"/>
       </a>
     </p>
 
@@ -123,7 +123,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,vscode,python,sklearn,javascript,nodejs,html,css,git,github" style="margin: 0 15px;" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=anaconda,gitlab,vscode,python,sklearn,javascript,nodejs,html,css,git,github" style="margin: 0 15px;" alt="Skills" />
   </a>
 </p>
 
