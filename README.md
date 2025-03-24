@@ -2,11 +2,11 @@
 
 I’m a **data science enthusiast** with a strong foundation in **machine learning and AI** and a passion for leveraging data to solve real-world problems.  
 
-🎓 **Senior at UC Davis**, pursuing a **B.S. in Statistical Data Science** with a **Minor in Technology Management**.  
-📊 **Data Science Coordinator @ ASUCD Pantry**, optimizing food inventory with predictive modeling.  
-🌍 **Youth Advisory Council Member @ JFF**, working to enhance career navigation tools for young adults.  
-💡 Currently learning about **AI Agents and Generative AI** to explore their potential in automation and decision-making.  
-🔍 Interested in **machine learning, data visualization, and applied AI in healthcare and business**.  
+- 🎓 **Senior at UC Davis**, pursuing a **B.S. in Statistical Data Science** with a **Minor in Technology Management**.  
+- 📊 **Data Science Coordinator @ ASUCD Pantry**, optimizing food inventory with predictive modeling.  
+- 🌍 **Youth Advisory Council Member @ JFF**, working to enhance career navigation tools for young adults.  
+- 💡 Currently learning about **AI Agents and Generative AI** to explore their potential in automation and decision-making.  
+- 🔍 Interested in **machine learning, data visualization, and applied AI in healthcare and business**.  
 
 🌟 Always open to connecting and collaborating—feel free to reach out! 🚀  
 
@@ -14,35 +14,44 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 🛠 Projects:
 
-- **[Aggie Reminder](https://github.com/calvinhoang203/Aggie-Reminder)**  
-  *Inspiration:* Enhancing volunteer management and communication at Aggie House.  
-  *What it does:* Provides an admin portal to monitor volunteer work hours and send automated email reminders via the SendGrid API. It also implements an automatic reminder feature using JavaScript in a Google Sheets App Script.  
-  *How we built it:* Developed with Node.js for the server, and HTML, CSS, and JavaScript for a responsive frontend.  
-  **Technologies used:**  
-  <p align="center">
-    <a href="https://nodejs.org/">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    </a>
-  </p>
+- **[Aggie Reminder](https://github.com/calvinhoang203/Aggie-Reminder)**
+  - **Inspiration:**
+    - Enhance volunteer management and communication at Aggie House.
+  - **What it does:**
+    - Provides an admin portal to monitor volunteer work hours.
+    - Sends automated email reminders via the SendGrid API.
+    - Implements an automatic reminder feature using JavaScript in a Google Sheets App Script.
+  - **How we built it:**
+    - Developed with Node.js for server-side logic.
+    - Built with HTML, CSS, and JavaScript for a responsive frontend.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://nodejs.org/">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 0 10px;" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 10px;" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 10px;" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 0 10px;" />
+      </a>
+    </p>
 
-- **[Pantry Tracking Website](https://github.com/lJulietl/Pantry-Tracking-Website)**  
-  *Description:* A web-based dashboard for tracking pantry inventory in real-time.  
-  *How it works:* Built with Python, this dashboard allows users to input, update, and visualize inventory data—helping to manage distributed products and remaining stock efficiently.  
-  **Technologies used:**  
-  <p align="center">
-    <a href="https://python.org/">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    </a>
-  </p>
+- **[Pantry Tracking Website](https://github.com/lJulietl/Pantry-Tracking-Website)**
+  - **Description:**
+    - A web-based dashboard for tracking pantry inventory in real-time.
+  - **How it works:**
+    - Built with Python, allowing users to input, update, and visualize inventory data.
+    - Efficiently manages distributed products and remaining stock.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://python.org/">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 0 10px;" />
+      </a>
+    </p>
 
 ---
 
@@ -50,31 +59,31 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 <p align="center">
   <a href="https://python.org/">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 0 10px;" />
   </a>
   <a href="https://scikit-learn.org/">
-    <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" />
+    <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" style="margin: 0 10px;" />
   </a>
   <a href="https://www.tensorflow.org/">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="margin: 0 10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 0 10px;" />
   </a>
   <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 0 10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 10px;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 10px;" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 10px;" />
   </a>
 </p>
 
