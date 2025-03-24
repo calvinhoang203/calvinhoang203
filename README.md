@@ -6,7 +6,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 - 📊 **Data Science Coordinator @ ASUCD Pantry**, optimizing food inventory with predictive modeling.  
 - 🌍 **Youth Advisory Council Member @ JFF**, working to enhance career navigation tools for young adults.  
 - 💡 Currently learning about **AI Agents and Generative AI** to explore their potential in automation and decision-making.  
-- 🔍 Interested in **machine learning, data visualization, and applied AI in healthcare and business**.  
+- 🔍 Interested in **machine learning, data visualization, and applied AI in healthcare, business, and technology**.  
 
 🌟 Always open to connecting and collaborating—feel free to reach out! 🚀  
 
