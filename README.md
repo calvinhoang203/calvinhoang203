@@ -27,7 +27,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,html,css,javascript" style="margin: 0 15px;" alt="Aggie Reminder Technologies" />
+        <img src="https://skillicons.dev/icons?i=nodejs,html,css,javascript" style="margin: 0 15px;"/>
       </a>
     </p>
 
@@ -40,7 +40,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,css" style="margin: 0 15px;" alt="Python and CSS" />
+        <img src="https://skillicons.dev/icons?i=python,css" style="margin: 0 15px;" />
       </a>
     </p>
 
@@ -60,7 +60,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,sklearn" style="margin: 0 15px;" alt="Python and scikit-learn" />
+        <img src="https://skillicons.dev/icons?i=python,sklearn" style="margin: 0 15px;" alt="Python, scikit-learn" />
       </a>
     </p>
 
@@ -78,7 +78,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python" style="margin: 0 15px;" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=anaconda,python" style="margin: 0 15px;" alt="Anaconda, Python" />
       </a>
     </p>
 
@@ -123,7 +123,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,python,sklearn,javascript,nodejs,html,css,git,github" style="margin: 0 15px;" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=anaconda,vscode,python,sklearn,javascript,nodejs,html,css,git,github" style="margin: 0 15px;" alt="Skills" />
   </a>
 </p>
 
