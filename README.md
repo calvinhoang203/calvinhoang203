@@ -11,9 +11,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 🌟 Always open to connecting and collaborating—feel free to reach out! 🚀  
 
 ## 🛠 Projects:
-🔹 **Disease Prediction Chatbot**: Developed an AI-powered chatbot using XGBoost and AWS to predict diseases based on symptoms, improving early detection accuracy.  
-🔹 **Marvel Universe Explorer**: Built an interactive web app using JavaScript, HTML, and CSS, integrating the Marvel API to explore characters, comics, and creators.  
-🔹 **Food Inventory Optimization**: Created predictive models for food demand forecasting, enhancing inventory efficiency at ASUCD Pantry. 
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calvinhoang203&show_icons=true&theme=dark)  
