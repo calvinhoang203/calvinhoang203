@@ -40,7 +40,80 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,css" style="margin: 0 15px;" alt="Python and CSS" />
+      </a>
+    </p>
+
+- **[Exploring the Impact of Stroke, Heart Disease, and Diabetes on Mobility Challenges](https://github.com/calvinhoang203/Exploring-the-Impact-of-Stroke-Heart-Disease-and-Diabetes-on-Mobility-Challenges)**
+  - **Project Overview:**
+    - Uses the BRFSS 2015 dataset to analyze and predict heart disease indicators.
+    - Leverages health metrics such as BMI, smoking habits, physical activity, and healthcare access.
+  - **Inspiration:**
+    - Motivated by the alarming prevalence of heart disease and the need for early intervention.
+  - **Dataset Overview:**
+    - Based on the Heart Disease Health Indicators from the 2015 BRFSS survey.
+    - Consists of 22 columns covering health metrics, demographics, and lifestyle factors.
+  - **Analysis Details:**
+    - **Objectives:** Identify key predictors of heart disease, build and evaluate predictive models, and provide actionable insights.
+    - **Methods:** Exploratory Data Analysis, Feature Engineering, and Model Building using algorithms like Logistic Regression and Random Forest.
+    - **Results & Learnings:** Highlighted significant predictors (e.g., HighBP, HighChol) and gained insights into lifestyle impacts on heart disease risk.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,sklearn" style="margin: 0 15px;" alt="Python and scikit-learn" />
+      </a>
+    </p>
+
+- **[Analysis-of-Amazon-Sales-Trend](https://github.com/calvinhoang203/Analysis-of-Amazon-Sales-Trend)**
+  - **Project Overview:**
+    - Conducts an in-depth analysis of customer behavior using the Amazon Sales Dataset.
+    - Focuses on product review categories, review lengths, and their impact on product engagement.
+  - **Key Questions Explored:**
+    - What information does the dataset provide?
+    - Which products are top-rated based on the number of ratings?
+    - Is there a correlation between ratings count and average product rating?
+    - Which products have the most discounted prices, and how do discounts relate to review counts?
+    - What are the top products by click-through rates and by category?
+    - How do review characteristics (e.g., length) correlate with product ratings?
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python" style="margin: 0 15px;" alt="Python" />
+      </a>
+    </p>
+
+- **[Marvel-Universe-Explorer](https://github.com/calvinhoang203/Marvel-Universe-Explorer)**
+  - **Project Overview:**
+    - A fun, interactive web project that dives into the Marvel Universe.
+    - Retrieves data from the Marvel API to showcase characters, comics, and creators.
+  - **Inspiration:**
+    - Sparked by a childhood fascination with Marvel heroes and their incredible stories.
+  - **Features:**
+    - **Home:** Introductory section guiding users through the site.
+    - **Marvel Characters Gallery:** Displays characters with images and descriptions.
+    - **Marvel Comics Gallery:** Lists comics with cover images, titles, and issue numbers.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript" style="margin: 0 15px;" alt="HTML, CSS, JavaScript" />
+      </a>
+    </p>
+
+- **[MealBuddy](https://github.com/calvinhoang203/MealBuddy)**
+  - **Overview:**
+    - An AI-powered meal planning app designed to help users track ingredients, generate meal suggestions, and monitor nutritional intake.
+  - **Features (In Progress):**
+    - **Ingredient Tracking:** Log and manage available ingredients.
+    - **AI-Powered Chatbot:** Provides meal suggestions based on inventory and nutrition goals.
+    - **Dynamic Dashboards:** Displays nutritional intake, meal history, and user progress.
+  - **Tech Stack:**
+    - **Frontend:** React Native, HTML, CSS, JavaScript.
+    - **Backend:** Firebase for authentication and database management.
+    - **AI Integration:** OpenAI API for personalized meal recommendations.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,firebase" style="margin: 0 15px;" alt="React Native and Firebase" />
       </a>
     </p>
 
