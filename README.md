@@ -26,22 +26,18 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
     - Built with HTML, CSS, and JavaScript for a responsive frontend.
   - **Technologies used:**  
     <p align="center">
-      <a href="https://nodejs.org/" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 0 15px;" />
+      <a href="https://nodejs.org/">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
       </a>
-      
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 15px;" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
       </a>
-      
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 15px;" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
       </a>
-      
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 0 15px;" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
       </a>
-      
     </p>
 
 - **[Pantry Tracking Website](https://github.com/lJulietl/Pantry-Tracking-Website)**
@@ -52,8 +48,8 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
     - Efficiently manages distributed products and remaining stock.
   - **Technologies used:**  
     <p align="center">
-      <a href="https://python.org/" style="margin: 0 15px;">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 0 15px;" />
+      <a href="https://python.org/">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
       </a>
     </p>
 
@@ -62,29 +58,8 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 ## Skills 💻
 
 <p align="center">
-  <a href="https://python.org/" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="margin: 0 15px;" />
-  </a>
-  <a href="https://scikit-learn.org/" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" style="margin: 0 15px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 0 15px;" />
-  </a>
-  <a href="https://nodejs.org/" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 0 15px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 15px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 15px;" />
-  </a>
-  <a href="https://git-scm.com/" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="margin: 0 15px;" />
-  </a>
-  <a href="https://github.com/" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="margin: 0 15px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,docker,c,cpp,java,python,javascript,typescript,html,css,react,nodejs,expressjs,nextjs,mysql,mongodb,postgresql,rabbitmq,firebase,bash,linux,aws,googlecloud,spring,ai,supabase" />
   </a>
 </p>
 
