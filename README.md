@@ -26,17 +26,8 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
     - Built with HTML, CSS, and JavaScript for a responsive frontend.
   - **Technologies used:**  
     <p align="center">
-      <a href="https://nodejs.org/">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,html,css,javascript" style="margin: 0 15px;" alt="Aggie Reminder Technologies" />
       </a>
     </p>
 
@@ -48,8 +39,8 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
     - Efficiently manages distributed products and remaining stock.
   - **Technologies used:**  
     <p align="center">
-      <a href="https://python.org/">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python" style="margin: 0 15px;" alt="Python" />
       </a>
     </p>
 
@@ -59,7 +50,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,docker,c,cpp,java,python,javascript,typescript,html,css,react,nodejs,expressjs,nextjs,mysql,mongodb,postgresql,rabbitmq,firebase,bash,linux,aws,googlecloud,spring,ai,supabase" />
+    <img src="https://skillicons.dev/icons?i=python,sklearn,javascript,nodejs,html,css,git,github" style="margin: 0 15px;" alt="Skills" />
   </a>
 </p>
 
