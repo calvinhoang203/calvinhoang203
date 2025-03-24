@@ -29,15 +29,19 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
       <a href="https://nodejs.org/" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="margin: 0 15px;" />
       </a>
+      
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 15px;" />
       </a>
+      
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 15px;" />
       </a>
+      
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="margin: 0 15px;" />
       </a>
+      
     </p>
 
 - **[Pantry Tracking Website](https://github.com/lJulietl/Pantry-Tracking-Website)**
