@@ -60,7 +60,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,sklearn" style="margin: 0 15px;" alt="Python, scikit-learn" />
+        <img src="https://skillicons.dev/icons?i=python,sklearn" style="margin: 0 15px;"/>
       </a>
     </p>
 
@@ -78,7 +78,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=anaconda,python" style="margin: 0 15px;" alt="Anaconda, Python" />
+        <img src="https://skillicons.dev/icons?i=anaconda,python" style="margin: 0 15px;"/>
       </a>
     </p>
 
@@ -95,7 +95,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript" style="margin: 0 15px;" alt="HTML, CSS, JavaScript" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript" style="margin: 0 15px;"/>
       </a>
     </p>
 
@@ -113,7 +113,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,firebase,html,css,javascript" style="margin: 0 15px;" alt="React Native and Firebase" />
+        <img src="https://skillicons.dev/icons?i=react,firebase,html,css,javascript" style="margin: 0 15px;"/>
       </a>
     </p>
 
