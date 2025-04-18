@@ -119,7 +119,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ---
 
-## Skills 💻
+## 💻 Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
