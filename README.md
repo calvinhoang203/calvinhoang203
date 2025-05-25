@@ -116,7 +116,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,react,reactnative,firebase,html,css,javascript,typescript" style="margin: 0 15px;"/>
+        <img src="https://skillicons.dev/icons?i=vscode,react,firebase,html,css,javascript,typescript" style="margin: 0 15px;"/>
       </a>
     </p>
 
