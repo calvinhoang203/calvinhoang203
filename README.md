@@ -101,19 +101,22 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 - **[MealBuddy](https://github.com/calvinhoang203/MealBuddy)**
   - **Overview:**
-    - An AI-powered meal planning app designed to help users track ingredients, generate meal suggestions, and monitor nutritional intake.
+    - An AI-powered meal planning app designed to help users track ingredients, generate personalized meal suggestions, and monitor nutritional intake.
   - **Features (In Progress):**
-    - **Ingredient Tracking:** Log and manage available ingredients.
-    - **AI-Powered Chatbot:** Provides meal suggestions based on inventory and nutrition goals.
-    - **Dynamic Dashboards:** Displays nutritional intake, meal history, and user progress.
+    - **Ingredient Tracking:** Search, add, edit, and delete ingredients with nutritional breakdown (calories, protein, fats, water, sugar).
+    - **AI-Powered Chatbot:** Provides recipe suggestions using Google Gemini AI based on user-provided ingredients, with integrated YouTube video links for cooking instructions.
+    - **Dynamic Dashboards:** Displays nutritional summaries with circular trackers and pie charts for calories, water, protein, carbs, and fats.
+    - **Profile Management:** Manage user data (name, age, gender, height, weight) with authentication through Firebase and Google Sign-In, including password reset and logout functionality.
+    - **Searchable Fridge Inventory:** Filter and manage stored ingredients with real-time updates using Firestore snapshot listeners.
+    - **Themed UI:** Automatically adapts to system light/dark themes using a custom color scheme.
   - **Tech Stack:**
-    - **Frontend:** React Native, HTML, CSS, JavaScript.
-    - **Backend:** Firebase for authentication and database management.
-    - **AI Integration:** OpenAI API for personalized meal recommendations.
+    - **Frontend:** React Native, HTML, CSS, JavaScript, TypeScript.
+    - **Backend:** Firebase for authentication and database management, Google Gemini API for AI integration.
+    - **AI Integration:** Google Gemini API for personalized meal recommendations and YouTube Data API for video retrieval.
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,react,firebase,html,css,javascript" style="margin: 0 15px;"/>
+        <img src="https://skillicons.dev/icons?i=vscode,react,reactnative,firebase,html,css,javascript,typescript" style="margin: 0 15px;"/>
       </a>
     </p>
 
