@@ -31,7 +31,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
       </a>
     </p>
 
-- **[Pantry Tracking Website](https://github.com/lJulietl/Pantry-Tracking-Website)**
+- **[Pantry Tracking Website]([https://github.com/lJulietl/Pantry-Tracking-Website](https://pantry-tracking-website-7zzcmgcztslfzoswphhjgd.streamlit.app/))**
   - **Description:**
     - A web-based dashboard for tracking pantry inventory in real-time.
   - **How it works:**
