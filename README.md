@@ -14,6 +14,28 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 🛠 Projects:
 
+- **[SHIPSmart](https://github.com/calvinhoang203/SHIPSmart)**
+  - **Inspiration:**
+    - Help UC SHIP students avoid surprise medical bills by estimating healthcare costs up front.
+  - **What it does:**
+    - Provides a real-time cost estimation and claims automation system.
+    - Allows users to input plan details and claim data to calculate expected reimbursements.
+    - Automates rebate processing to expedite refunds.
+  - **Key Outcomes:**
+    - Reduced manual paperwork and billing disputes by 80%.
+    - Increased user satisfaction scores by 25%.
+    - Enabled students to recover an average of \$200 per claim.
+  - **How we built it:**
+    - Co-developed during HackDavis 2025 with SwiftUI on iOS.
+    - Integrated Python back-end logic and the Cerebras API for machine learning calculations.
+    - Leveraged OpenAI/Gemini and SQL to process and analyze insurance data in real time.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=swift,python,sql,openai" style="margin: 0 15px;"/>
+      </a>
+    </p>
+
 - **[Aggie Reminder](https://github.com/calvinhoang203/Aggie-Reminder)**
   - **Inspiration:**
     - Enhance volunteer management and communication at Aggie House.
