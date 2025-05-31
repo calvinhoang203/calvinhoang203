@@ -14,6 +14,33 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 🛠 Projects:
 
+- **[BrainBoost: Academic Success Coach](https://github.com/calvinhoang203/Brain-Boost-Academic-Success-Coach)**
+  - **Inspiration:**
+    - Provide students with a personalized, data-driven “coach” to track daily habits and predict academic performance.
+  - **What it does:**
+    - Allows users to input daily metrics—study hours, sleep hours, social activities, physical activity, extracurriculars, and screen time.
+    - Predicts letter-grade category and stress level using a Gradient Boosting model (0.9087 overall accuracy) trained on 2,000+ student records.
+    - Visualizes progress over time in an interactive Streamlit dashboard, showing habit history alongside predicted outcomes.
+    - Generates tailored recommendations in three categories—“Study Strategy,” “Wellness,” and “Balance”—based on predicted grade gaps and stress levels.
+    - Includes a simulation tab where users adjust habit sliders to see potential effects on predicted GPA and stress.
+  - **Key Outcomes:**
+    - Gradient Boosting model achieved 0.8175 letter-grade accuracy and 1.0000 stress-level accuracy, for an overall 0.9087 accuracy.
+    - Empowered students to identify habit changes likely to improve GPA trajectories and manage stress effectively.
+  - **How we built it:**
+    - Preprocessed the Student Lifestyle Dataset (2,000 records) in Pandas; engineered features such as Study–Sleep interaction, Social–Study ratio, Total Activity, Study Efficiency, and Life Balance.
+    - Trained multiple classifiers (Logistic Regression, Random Forest, XGBoost, Decision Tree, Gradient Boosting) in scikit-learn and saved the best-performing pipeline in `stacked_multioutput_predictor.pkl`.
+    - Developed a Streamlit app (`app.py`) to load the model and a `StandardScaler` (`scaler.pkl`), capture user inputs, perform real-time feature engineering, and display predictions.
+    - Built interactive tabs:
+      1. **Input Habits:** Numeric inputs for six daily activities, interactive time-allocation progress bar, and “Critical” warnings for unrealistic inputs.
+      2. **Progress:** Displays latest predicted grade, stress level, time-to-graduation estimate, plus a line chart and table of habit history.
+      3. **Recommendations:** Provides personalized tips for improving study habits, wellness, and work-life balance, and includes interactive sliders so users can adjust daily habits and immediately see how those changes might impact their predicted GPA and stress levels.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,python,pandas,scikit-learn,streamlit" style="margin: 0 15px;"/>
+      </a>
+    </p>
+
 - **[SHIPSmart](https://github.com/calvinhoang203/SHIPSmart)**
   - **Inspiration:**
     - Help UC SHIP students avoid surprise medical bills by estimating healthcare costs up front.
