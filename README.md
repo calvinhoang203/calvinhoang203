@@ -37,7 +37,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,python,pandas,scikit-learn,streamlit" style="margin: 0 15px;"/>
+        <img src="https://skillicons.dev/icons?i=vscode,python,sklearn,git" style="margin: 0 15px;"/>
       </a>
     </p>
 
@@ -55,7 +55,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   - **Technologies used:**  
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=swift,python" style="margin: 0 15px;"/>
+        <img src="https://skillicons.dev/icons?i=swift,python,git" style="margin: 0 15px;"/>
       </a>
     </p>
 
