@@ -14,6 +14,33 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 🛠 Projects:
 
+- **[EpiAccess: Epidemic Forecasting & Healthcare Analysis Dashboard](https://github.com/calvinhoang203/EpiAccess)**
+  - **Inspiration:**
+    - Develop a comprehensive tool for analyzing infectious disease trends and understanding global healthcare access patterns to support educational research and emergency preparedness planning.
+  - **What it does:**
+    - Analyzes 63,115 real epidemic records from COVID-19, SARS, and Monkeypox outbreaks across 222 countries.
+    - Generates 6-month epidemic forecasts using both traditional exponential smoothing and PyTorch neural networks with confidence intervals.
+    - Clusters 175 countries into 4 distinct healthcare access categories using K-means algorithm based on health expenditure patterns.
+    - Provides interactive disease mapping with choropleth and bubble visualizations.
+    - Generates AI-powered insights in plain English with confidence scoring and trend analysis.
+    - Features "what-if" scenario planning showing how historical outbreaks would unfold in 2025.
+  - **How we built it:**
+    - Built comprehensive data processing pipeline using Pandas to unify datasets from multiple sources (Kaggle, World Bank).
+    - Implemented dual forecasting system: exponential smoothing for transparency and PyTorch neural networks for complex pattern recognition.
+    - Developed healthcare access clustering using scikit-learn K-means with 3-year averaging (2020-2022) for pandemic stability.
+    - Created interactive Streamlit dashboard with three main components: Disease Trends, Disease Map, and Healthcare Access Analysis.
+    - Integrated Plotly for dynamic visualizations and implemented statistical analysis with correlation metrics and efficiency ratios.
+  - **Key Outcomes:**
+    - Successfully processed and analyzed 63,000+ epidemic records with real-time interactive visualizations.
+    - Achieved reliable trend analysis for educational purposes with clear confidence scoring and limitation transparency.
+    - Identified 4 distinct global healthcare access patterns: High Access-Advanced Economy, Medium-High Access-Developing, High Priority-Limited Resources, and Low Access-Resource Constrained.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,python,sklearn" style="margin: 0 15px;"/>
+      </a>
+    </p>
+
 - **[BrainBoost: Academic Success Coach](https://github.com/calvinhoang203/Brain-Boost-Academic-Success-Coach)**
   - **Inspiration:**
     - Provide students with a personalized, data-driven “coach” to track daily habits and predict academic performance.
