@@ -14,6 +14,33 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 🛠 Projects:
 
+- **[Oprina: Conversational AI Avatar Assistant](https://devpost.com/software/oprina-conversational-ai-avatar-assistant?ref_content=user-portfolio&ref_feature=in_progress)**
+  - **Inspiration:**
+    - Create a voice assistant with a lifelike avatar that handles email and calendar through natural conversation, designed for hands-free productivity with a smooth, reliable experience.
+  - **What it does:**
+    - Provides a conversational AI avatar assistant that manages email and calendar tasks through voice commands.
+    - Features a lifelike avatar interface for natural human-computer interaction.
+    - Handles productivity tasks seamlessly without requiring manual input.
+  - **How we built it:**
+    - Developed using React and TypeScript for the frontend interface.
+    - Implemented FastAPI with Python for the backend services.
+    - Integrated Google ADK, Gmail API, and Google Calendar API for email and calendar management.
+    - Utilized Vertex AI and Gemini 2.0 Flash for advanced AI capabilities.
+    - Incorporated HeyGen API for avatar generation and animation.
+    - Used Supabase for database management and Google Cloud for deployment.
+  - **Key Features:**
+    - Voice-activated email and calendar management
+    - Lifelike AI avatar with natural conversation capabilities
+    - Hands-free productivity workflow
+    - Integration with Google services (Gmail, Calendar)
+    - Real-time AI processing with Gemini 2.0 Flash
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,typescript,python,gcp" style="margin: 0 15px;"/>
+      </a>
+    </p>
+
 - **[EpiAccess: Epidemic Forecasting & Healthcare Analysis Dashboard](https://github.com/calvinhoang203/EpiAccess)**
   - **Inspiration:**
     - Develop a comprehensive tool for analyzing infectious disease trends and understanding global healthcare access patterns to support educational research and emergency preparedness planning.
