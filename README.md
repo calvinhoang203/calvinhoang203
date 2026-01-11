@@ -233,15 +233,11 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=calvinhoang203&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calvinhoang203&show_icons=true&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=calvinhoang203&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calvinhoang203&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhoang203&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhoang203&layout=compact&theme=dark)
 
 
 ---
