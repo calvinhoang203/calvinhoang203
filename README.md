@@ -232,9 +232,19 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calvinhoang203&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calvinhoang203&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhoang203&layout=compact&theme=dark) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=calvinhoang203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calvinhoang203&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhoang203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=calvinhoang203&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=calvinhoang203&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
