@@ -233,11 +233,9 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calvinhoang203&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calvinhoang203&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhoang203&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=calvinhoang203&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/calvinhoang203?style=social)
+![GitHub stars](https://img.shields.io/github/stars/calvinhoang203?style=social)
 
 
 ---
