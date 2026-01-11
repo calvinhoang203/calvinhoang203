@@ -2,7 +2,7 @@
 
 I’m a **data science enthusiast** with a strong foundation in **machine learning and AI** and a passion for leveraging data to solve real-world problems.  
 
-- 🎓 **Senior at UC Davis**, pursuing a **B.S. in Statistical Data Science** with a **Minor in Technology Management**.  
+- 🎓 **Recent Graduate from UC Davis** with a **B.S. in Statistical Data Science** with a **Minor in Technology Management**.  
 - 📊 **Data Science Coordinator @ ASUCD Pantry**, optimizing food inventory with predictive modeling.  
 - 🌍 **Youth Advisory Council Member @ JFF**, working to enhance career navigation tools for young adults.  
 - 💡 Currently learning about **AI Agents and Generative AI** to explore their potential in automation and decision-making.  
