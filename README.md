@@ -233,9 +233,17 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 📊 GitHub Stats:
 
-![Profile Views](https://komarev.com/ghpvc/?username=calvinhoang203&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/calvinhoang203?style=social)
-![GitHub stars](https://img.shields.io/github/stars/calvinhoang203?style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=calvinhoang203&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/calvinhoang203?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/calvinhoang203?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Lives-San%20Jose%2C%20CA-red?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status" />
+</p>
 
 
 ---
