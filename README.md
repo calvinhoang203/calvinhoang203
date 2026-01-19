@@ -235,16 +235,21 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=calvinhoang203&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/calvinhoang203?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/calvinhoang203?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/calvinhoang203?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/calvinhoang203?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-San%20Jose%2C%20CA-red?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/🎓_Education-UC%20Davis%20'25-blue?style=for-the-badge" alt="Education" />
+  <img src="https://img.shields.io/badge/🎯_Focus-ML%20%7C%20AI%20%7C%20Data%20Science-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/📍_Location-San%20Jose%2C%20CA-red?style=for-the-badge" alt="Location" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🔬_Seeking-PhD%20Fall%202026-purple?style=for-the-badge" alt="PhD" />
+  <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/🌐_Language-English%20%7C%20Vietnamese%20%7C%20日本語-orange?style=for-the-badge" alt="Languages" />
+</p>
 
 ---
 
