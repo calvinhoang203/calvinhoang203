@@ -245,9 +245,6 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
   <img src="https://img.shields.io/badge/📍_Location-San%20Jose%2C%20CA-red?style=for-the-badge" alt="Location" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐_Language-English%20%7C%20Vietnamese%20%7C%20日本語-orange?style=for-the-badge" alt="Languages" />
-</p>
 
 ---
 
