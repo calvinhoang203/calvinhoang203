@@ -246,8 +246,6 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔬_Seeking-PhD%20Fall%202026-purple?style=for-the-badge" alt="PhD" />
-  <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Opportunities-success?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/🌐_Language-English%20%7C%20Vietnamese%20%7C%20日本語-orange?style=for-the-badge" alt="Languages" />
 </p>
 
