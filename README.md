@@ -14,6 +14,38 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 
 ## 🛠 Projects:
 
+- **[NYC Restaurant Health Inspection Prediction](https://github.com/calvinhoang203/NYC-Restaurant-Health-Inspection-Prediction)**
+  - **Inspiration:**
+    - Analyze 18 years of NYC restaurant health inspection data to identify what factors actually drive health code compliance and predict restaurant grades using machine learning.
+    - Understand whether location, cuisine type, timing, or violations themselves are the strongest predictors of health inspection outcomes.
+  - **What it does:**
+    - Analyzes 295,831+ inspection records spanning 2007-2026 from 30,627 unique restaurants across all 5 NYC boroughs.
+    - Predicts restaurant health grades (A, B, or C) using a Random Forest classifier with 93.8% overall accuracy.
+    - Features an interactive Streamlit dashboard with real-time data visualization, filtering capabilities, and grade prediction interface.
+    - Automatically refreshes data daily from NYC Open Data API to ensure the dashboard always displays the latest inspection results.
+    - Provides comprehensive analytics including grade distributions, violation patterns, borough comparisons, and cuisine type analysis.
+    - Includes a prediction tool where users can input inspection details (violations, cuisine type, borough, date) to predict potential health grades.
+  - **How we built it:**
+    - Processed and cleaned 295K+ raw inspection records using Pandas, aggregating multiple violation records into single inspections (reduced to 51,839 unique inspections).
+    - Engineered 6 key features: total violations, critical violations, cuisine type, borough, month, and day of week.
+    - Trained multiple models (Logistic Regression baseline, Random Forest) using scikit-learn, handling severe class imbalance (87% A grades).
+    - Built comprehensive Streamlit dashboard with Plotly visualizations including pie charts, histograms, time series, scatter plots, and heatmaps.
+    - Implemented automatic data refresh functionality that checks for updates daily and processes raw data into clean format.
+    - Deployed interactive web application with filtering by borough, cuisine type, and date range, plus real-time model predictions.
+  - **Key Outcomes:**
+    - Achieved 93.8% accuracy with Random Forest model, with 99% recall for A-grade restaurants.
+    - Identified that critical violations (44%) and total violations (31%) account for 75% of model predictions, revealing that food safety violations are the primary driver of health grades.
+    - Discovered that location, timing, and cuisine type have minimal impact (combined <20%) compared to actual violations.
+    - Successfully processed and visualized 18 years of inspection data with interactive dashboards accessible to non-technical users.
+    - Built production-ready application with error handling, data validation, and automatic data refresh capabilities.
+  - **Technologies used:**  
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,python,sklearn,git" style="margin: 0 15px;"/>
+      </a>
+    </p>
+
+
 - **[Oprina: Conversational AI Avatar Assistant](https://devpost.com/software/oprina-conversational-ai-avatar-assistant?ref_content=user-portfolio&ref_feature=in_progress)**
   - **Inspiration:**
     - Create a voice assistant with a lifelike avatar that handles email and calendar through natural conversation, designed for hands-free productivity with a smooth, reliable experience.
