@@ -7,7 +7,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 - 🌍 **Youth Advisory Council Member @ JFF**, working to enhance career navigation tools for young adults.  
    
 
-🌟 Always open to connecting and collaborating—feel free to reach out! 🚀  
+🌟 Always open to connecting and collaborating. Feel free to reach out! 🚀  
 
 ---
 
