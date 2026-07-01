@@ -5,8 +5,7 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
 - 🎓 **Recent Graduate from UC Davis** with a **B.S. in Statistical Data Science** with a **Minor in Technology Management**.  
 - 📊 **Data Science Coordinator @ ASUCD Pantry**, optimizing food inventory with predictive modeling.  
 - 🌍 **Youth Advisory Council Member @ JFF**, working to enhance career navigation tools for young adults.  
-- 💡 Currently learning about **AI Agents and Generative AI** to explore their potential in automation and decision-making.  
-- 🔍 Interested in **machine learning, data visualization, and applied AI in healthcare, business, and technology**.  
+   
 
 🌟 Always open to connecting and collaborating—feel free to reach out! 🚀  
 
@@ -25,8 +24,8 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
     - Automatically refreshes data daily from NYC Open Data API to ensure the dashboard always displays the latest inspection results.
     - Provides comprehensive analytics including grade distributions, violation patterns, borough comparisons, and cuisine type analysis.
     - Includes a prediction tool where users can input inspection details (violations, cuisine type, borough, date) to predict potential health grades.
-  - **How we built it:**
-    - Processed and cleaned 295K+ raw inspection records using Pandas, aggregating multiple violation records into single inspections (reduced to 51,839 unique inspections).
+  - **How it is built:**
+    - Processed and cleaned 295K+ raw inspection records using Pandas, aggregating multiple violation records into single inspections.
     - Engineered 6 key features: total violations, critical violations, cuisine type, borough, month, and day of week.
     - Trained multiple models (Logistic Regression baseline, Random Forest) using scikit-learn, handling severe class imbalance (87% A grades).
     - Built comprehensive Streamlit dashboard with Plotly visualizations including pie charts, histograms, time series, scatter plots, and heatmaps.
@@ -36,7 +35,6 @@ I’m a **data science enthusiast** with a strong foundation in **machine learni
     - Achieved 93.8% accuracy with Random Forest model, with 99% recall for A-grade restaurants.
     - Identified that critical violations (44%) and total violations (31%) account for 75% of model predictions, revealing that food safety violations are the primary driver of health grades.
     - Discovered that location, timing, and cuisine type have minimal impact (combined <20%) compared to actual violations.
-    - Successfully processed and visualized 18 years of inspection data with interactive dashboards accessible to non-technical users.
     - Built production-ready application with error handling, data validation, and automatic data refresh capabilities.
   - **Technologies used:**  
     <p align="center">
